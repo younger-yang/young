@@ -1,1 +1,1 @@
-From nacos-server:latest
+From nacos/nacos-server:latest
