@@ -1,1 +1,1 @@
-From percona/percona-xtradb-cluster-operator:1.5.0-proxysql
+From percona/percona-xtradb-cluster-operator:1.7.0-proxysql

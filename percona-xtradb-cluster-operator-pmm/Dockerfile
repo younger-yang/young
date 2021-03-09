@@ -1,1 +1,1 @@
-From percona/percona-xtradb-cluster-operator:1.5.0-pmm 
+From percona/pmm-client:2.12.0

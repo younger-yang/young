@@ -1,1 +1,1 @@
-From percona/percona-xtradb-cluster:8.0.19-10.1
+From percona/percona-xtradb-cluster:8.0.21-12.1
